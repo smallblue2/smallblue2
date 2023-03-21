@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smallblue2&theme=dark)](https://git.io/streak-stats)
+
 Hey I'm Niall, and I'm a second year Computer Science student in Dublin City University.\
 Everything that I upload here are just small side projects that I work on in my spare time.\
 \
