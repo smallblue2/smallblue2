@@ -1,6 +1,5 @@
-Hey I'm Niall - I'm a second year Computer Science student in Dublin City University and
-assistant researcher at the Insight Centre For Data Analytics @DCU.
+Hey I'm Niall - I'm a third year Computer Science student in Dublin City University.
 
-All projects uploaded here are just small side projects that I work on in my spare time.\
+All projects uploaded here are just small side projects that I work on in my increasingly non-existent spare time.\
 \
 I can be reached through [email](mailto:niallcryan@live.ie?subject=[GitHub]%20Enquiry) or Discord @**nialldev**.
